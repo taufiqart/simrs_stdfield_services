@@ -1,0 +1,13 @@
+{
+  "rooms":[
+    {
+      "name":"IGD"
+    },
+    {
+      "name":"PDE"
+    },
+    {
+      "name":"AGD"
+    },
+  ]
+}
