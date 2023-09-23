@@ -1,15 +1,4 @@
 {
-  "rooms":[
-    {
-      "name":"IGD"
-    },
-    {
-      "name":"PDE"
-    },
-    {
-      "name":"AGD"
-    }
-  ],
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
